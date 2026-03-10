@@ -6,7 +6,7 @@ Customer Shopping Behavior Analysis
 
 This project analyzes customer shopping behavior using transactional retail data to uncover insights into spending patterns, customer segments, product preferences, and subscription behavior. The goal is to help businesses improve marketing strategies, increase customer engagement, and optimize product positioning.
 
-->Dataset Summary
+->Dataset Summary   
 *Total Records: 3,900 purchases
 *Total Features: 18 columns
 
